@@ -1,0 +1,187 @@
+{
+ "hero-van": {
+  "w": 1332,
+  "h": 952,
+  "src": "local:004.jpg",
+  "sw": 900,
+  "sh": 643
+ },
+ "hero-porch": {
+  "w": 2000,
+  "h": 1173,
+  "src": 18326826,
+  "sw": 1100,
+  "sh": 645
+ },
+ "hero-street": {
+  "w": 2000,
+  "h": 1813,
+  "src": 37487174,
+  "sw": 1100,
+  "sh": 997
+ },
+ "service-bedbug": {
+  "w": 1400,
+  "h": 1050,
+  "src": "local:001.jpg",
+  "sw": 800,
+  "sh": 600
+ },
+ "service-commercial": {
+  "w": 1022,
+  "h": 1086,
+  "src": "local:012.jpg",
+  "sw": 700,
+  "sh": 744
+ },
+ "service-wildlife": {
+  "w": 1100,
+  "h": 1232,
+  "src": "local:web10.JPG",
+  "sw": 740,
+  "sh": 829
+ },
+ "service-foundation": {
+  "w": 1200,
+  "h": 1073,
+  "src": "local:006.jpg",
+  "sw": 700,
+  "sh": 626
+ },
+ "service-ladder": {
+  "w": 1200,
+  "h": 900,
+  "src": "local:037.jpg",
+  "sw": 700,
+  "sh": 525
+ },
+ "nolan-van": {
+  "w": 343,
+  "h": 841,
+  "src": "local:walters.jpg"
+ },
+ "nolan-glove": {
+  "w": 640,
+  "h": 1136,
+  "src": "local:IMG_0160.jpg"
+ },
+ "team-inspect": {
+  "w": 640,
+  "h": 1136,
+  "src": "local:web7.jpg"
+ },
+ "nolan-training": {
+  "w": 640,
+  "h": 1136,
+  "src": "local:IMG_2541.jpg"
+ },
+ "team-group": {
+  "w": 640,
+  "h": 636,
+  "src": "local:IMG_2563.jpg"
+ },
+ "cage-trap": {
+  "w": 1000,
+  "h": 857,
+  "src": "local:095.jpg"
+ },
+ "archive-1977": {
+  "w": 244,
+  "h": 452,
+  "src": "local:18E6F653.jpg"
+ },
+ "archive-shirt": {
+  "w": 243,
+  "h": 413,
+  "src": "local:4CAD5239.jpg"
+ },
+ "archive-harvey": {
+  "w": 1059,
+  "h": 657,
+  "src": "local:9CCE713E.jpg"
+ },
+ "banner-services": {
+  "w": 1800,
+  "h": 1146,
+  "src": 26872245,
+  "sw": 1000,
+  "sh": 637
+ },
+ "banner-commercial": {
+  "w": 1800,
+  "h": 1299,
+  "src": 27685507,
+  "sw": 1000,
+  "sh": 722
+ },
+ "banner-wasps": {
+  "w": 1800,
+  "h": 1200,
+  "src": 38680283,
+  "sw": 1000,
+  "sh": 667
+ },
+ "banner-rodents": {
+  "w": 1900,
+  "h": 1054,
+  "src": 38688419,
+  "sw": 1040,
+  "sh": 577
+ },
+ "banner-bedbugs": {
+  "w": 1800,
+  "h": 1202,
+  "src": 8089268,
+  "sw": 1000,
+  "sh": 668
+ },
+ "banner-home": {
+  "w": 1800,
+  "h": 999,
+  "src": 20185458,
+  "sw": 1000,
+  "sh": 555
+ },
+ "banner-pests": {
+  "w": 1800,
+  "h": 1129,
+  "src": 27033323,
+  "sw": 1000,
+  "sh": 627
+ },
+ "banner-about": {
+  "w": 1900,
+  "h": 1059,
+  "src": 16075970,
+  "sw": 1040,
+  "sh": 580
+ },
+ "banner-area": {
+  "w": 1800,
+  "h": 984,
+  "src": 18280833,
+  "sw": 1000,
+  "sh": 547
+ },
+ "banner-contact": {
+  "w": 1800,
+  "h": 1352,
+  "src": 8364960,
+  "sw": 1000,
+  "sh": 751
+ },
+ "banner-costs": {
+  "w": 1800,
+  "h": 1344,
+  "src": 39462463,
+  "sw": 1000,
+  "sh": 747
+ },
+ "banner-pictures": {
+  "w": 1800,
+  "h": 1134,
+  "src": 16202346,
+  "sw": 1000,
+  "sh": 630
+ }
+}

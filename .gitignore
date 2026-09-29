@@ -1,0 +1,18 @@
+# Pexels originals. tools/photos.py re-downloads these by id, and the ids are
+# in the file, so there is no reason to carry 33 MB of JPEGs in the repository.
+# The company's own photographs ARE committed, in src/_source-photos, because
+# nothing can re-download those.
+src/_photos/
+
+# Screenshots from tools/shots.py. Generated, and large.
+src/_shots/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Vercel CLI, if it is ever run locally
+.vercel
